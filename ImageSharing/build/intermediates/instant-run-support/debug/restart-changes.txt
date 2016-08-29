@@ -1,0 +1,2 @@
+CHANGED,C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\roflcopter\starter\UserProfile.class
+CHANGED,C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\roflcopter\starter\UserProfile$2.class

@@ -1,0 +1,1052 @@
+[
+    {
+        "outputFile": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\res\\merged\\debug\\values-es-rUS\\values-es-rUS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 119,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 119,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 107,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 107,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 122,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 122,
+                        "endOffset": 630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 108,
+                    "endOffset": 560
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 635,
+                        "endColumn": 108,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 565,
+                    "endColumn": 107,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endColumn": 107,
+                        "endOffset": 847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 84,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 852,
+                        "endColumn": 84,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 100,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 100,
+                        "endOffset": 1033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 122,
+                    "endOffset": 977
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endColumn": 122,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 982,
+                    "endColumn": 81,
+                    "endOffset": 1059
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 81,
+                        "endOffset": 1238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1064,
+                    "endColumn": 111,
+                    "endOffset": 1171
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1243,
+                        "endColumn": 111,
+                        "endOffset": 1350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1176,
+                    "endColumn": 111,
+                    "endOffset": 1283
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1355,
+                        "endColumn": 111,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1288,
+                    "endColumn": 100,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1467,
+                        "endColumn": 100,
+                        "endOffset": 1563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endColumn": 107,
+                    "endOffset": 1492
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1568,
+                        "endColumn": 107,
+                        "endOffset": 1671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1497,
+                    "endColumn": 106,
+                    "endOffset": 1599
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1676,
+                        "endColumn": 106,
+                        "endOffset": 1778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1604,
+                    "endColumn": 106,
+                    "endOffset": 1706
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1783,
+                        "endColumn": 106,
+                        "endOffset": 1885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1711,
+                    "endColumn": 121,
+                    "endOffset": 1828
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1890,
+                        "endColumn": 121,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1833,
+                    "endColumn": 99,
+                    "endOffset": 1928
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2012,
+                        "endColumn": 99,
+                        "endOffset": 2107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1933,
+                    "endColumn": 72,
+                    "endOffset": 2001
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 72,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2006,
+                    "endColumn": 276,
+                    "endOffset": 2278
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 276,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2283,
+                    "endColumn": 128,
+                    "endOffset": 2407
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 128,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2412,
+                    "endColumn": 197,
+                    "endOffset": 2605
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endColumn": 197,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2610,
+                    "endColumn": 133,
+                    "endOffset": 2739
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 133,
+                        "endOffset": 1066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2744,
+                    "endColumn": 133,
+                    "endOffset": 2873
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1071,
+                        "endColumn": 133,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2878,
+                    "endColumn": 214,
+                    "endOffset": 3088
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 214,
+                        "endOffset": 1415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3093,
+                    "endColumn": 213,
+                    "endOffset": 3302
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1420,
+                        "endColumn": 213,
+                        "endOffset": 1629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3307,
+                    "endColumn": 132,
+                    "endOffset": 3435
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1634,
+                        "endColumn": 132,
+                        "endOffset": 1762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3440,
+                    "endColumn": 178,
+                    "endOffset": 3614
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1767,
+                        "endColumn": 178,
+                        "endOffset": 1941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3619,
+                    "endColumn": 124,
+                    "endOffset": 3739
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1946,
+                        "endColumn": 124,
+                        "endOffset": 2066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3744,
+                    "endColumn": 186,
+                    "endOffset": 3926
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2071,
+                        "endColumn": 186,
+                        "endOffset": 2253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3931,
+                    "endColumn": 118,
+                    "endOffset": 4045
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2258,
+                        "endColumn": 118,
+                        "endOffset": 2372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4050,
+                    "endColumn": 134,
+                    "endOffset": 4180
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2377,
+                        "endColumn": 134,
+                        "endOffset": 2507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4185,
+                    "endColumn": 177,
+                    "endOffset": 4358
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2512,
+                        "endColumn": 177,
+                        "endOffset": 2685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4363,
+                    "endColumn": 152,
+                    "endOffset": 4511
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2690,
+                        "endColumn": 152,
+                        "endOffset": 2838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4516,
+                    "endColumn": 173,
+                    "endOffset": 4685
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2843,
+                        "endColumn": 173,
+                        "endOffset": 3012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4690,
+                    "endColumn": 129,
+                    "endOffset": 4815
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3017,
+                        "endColumn": 129,
+                        "endOffset": 3142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4820,
+                    "endColumn": 188,
+                    "endOffset": 5004
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3147,
+                        "endColumn": 188,
+                        "endOffset": 3331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 5009,
+                    "endColumn": 123,
+                    "endOffset": 5128
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3336,
+                        "endColumn": 123,
+                        "endOffset": 3455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5133,
+                    "endColumn": 258,
+                    "endOffset": 5387
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 258,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5392,
+                    "endColumn": 270,
+                    "endOffset": 5658
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3460,
+                        "endColumn": 270,
+                        "endOffset": 3726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5663,
+                    "endColumn": 123,
+                    "endOffset": 5782
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3731,
+                        "endColumn": 123,
+                        "endOffset": 3850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5787,
+                    "endColumn": 110,
+                    "endOffset": 5893
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3855,
+                        "endColumn": 110,
+                        "endOffset": 3961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5898,
+                    "endColumn": 200,
+                    "endOffset": 6094
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3966,
+                        "endColumn": 200,
+                        "endOffset": 4162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 6099,
+                    "endColumn": 134,
+                    "endOffset": 6229
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4167,
+                        "endColumn": 134,
+                        "endOffset": 4297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 6234,
+                    "endColumn": 235,
+                    "endOffset": 6465
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4302,
+                        "endColumn": 235,
+                        "endOffset": 4533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 6470,
+                    "endColumn": 142,
+                    "endOffset": 6608
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4538,
+                        "endColumn": 142,
+                        "endOffset": 4676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 6613,
+                    "endColumn": 207,
+                    "endOffset": 6816
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4681,
+                        "endColumn": 207,
+                        "endOffset": 4884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 6821,
+                    "endColumn": 99,
+                    "endOffset": 6916
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4889,
+                        "endColumn": 99,
+                        "endOffset": 4984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 6921,
+                    "endColumn": 91,
+                    "endOffset": 7008
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4989,
+                        "endColumn": 91,
+                        "endOffset": 5076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 7013,
+                    "endColumn": 106,
+                    "endOffset": 7115
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 5081,
+                        "endColumn": 106,
+                        "endOffset": 5183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 7120,
+                    "endColumn": 144,
+                    "endOffset": 7260
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 144,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 7265,
+                    "endColumn": 109,
+                    "endOffset": 7370
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 109,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 7375,
+                    "endColumn": 74,
+                    "endOffset": 7445
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 74,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 7450,
+                    "endColumn": 100,
+                    "endOffset": 7546
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2112,
+                        "endColumn": 100,
+                        "endOffset": 2208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 7551,
+                    "endColumn": 156,
+                    "endOffset": 7703
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 156,
+                        "endOffset": 839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 7708,
+                    "endColumn": 92,
+                    "endOffset": 7796
+                },
+                "from": {
+                    "file": "C:\\Users\\Area51\\Desktop\\Image Sharing V1.2\\ImageSharing\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 92,
+                        "endOffset": 932
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.1_a7b8b1dd6f8edf334fa1252bbfbe960dbdf50ce4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_04647cac9b606196ba1c1c53e9910342de7fd3bc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.2.1_9337c1af860ec88e39ff304356a4bef5738756b1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.2.1_158e792cc5a485268cf43eb065f1ede8bcd6ec1f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_a9039ac19ec5329fe9537afe6cbbbae0382b4bf8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_c17a68e33deeaabd33c5d19a7eb8fee01290affc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_47692bd4c0f9b8de59ed71f4e53b4f3996e25e60\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_7c5a18dd183154bd1f5b77ec09f27b583fb9fdee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_97a85887b2846db66fe373800124cecb33caf449\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_cf5e484fbeb5316e400b1f3d03c59910cb1dde92\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.2.1_8cf9ba8dd8d59bf4646c748ce97cd70159644f3f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.2.1_fad16de97869dcb12500c6f7cf87fb8c4b4276f9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_bfa2b02bfcc5a529bd07db88491a68eb842550d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_cd084bf66eb04e57ce47b576d7ec220049033c6d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_9bccb8280d954c93cc2e0b31b16e5f966e326aff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_6b5605e62c3e7d46d401b49537a94dadec191ab0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_80db9a06e93a5a41f477ed5150ae586bfe37046a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b79ccdd1957c8ce12d37d39a317e86d110cad41b">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8fd445cc2b5d71848dac9d824b550250edeff914\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6e179940b575d309180a6c4f8bfb463e68298208">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_93484473a9becbbf5a85b2777b48446b7a97edae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Area51\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Area51\Desktop\Image Sharing V1.2\ImageSharing\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_f05fb49dbfab1572c52a6956612a99c19193242a\classes.dex" />
+    </item>
+
+</items>

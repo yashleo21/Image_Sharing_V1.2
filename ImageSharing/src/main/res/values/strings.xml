@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_app_id">instagram-myversion-2108vpceb36fg</string>
+    <string name="parse_client_key">vpceb36fg</string>
+
+    <string name="app_name">Image Sharing App</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="username_and_password_atleast_3_characters_long">Username and Password atleast 3 characters long</string>
+    <string name="title_activity_user_list">User List</string>
+    <string name="title_activity_user_feed">User Feed</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8981265957772699/4211531163</string>
+    <string name="title_activity_user_profile">User Profile</string>
+</resources>

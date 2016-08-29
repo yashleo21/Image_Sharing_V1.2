@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1097326171118",
+    "firebase_url": "https://image-share-ec76b.firebaseio.com",
+    "project_id": "image-share-ec76b",
+    "storage_bucket": "image-share-ec76b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097326171118:android:dd7fd74d941b62ec",
+        "android_client_info": {
+          "package_name": "com.roflcopter.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097326171118-cj1djp9ljnd8a43o6fo4rkvfshiqak8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKIY4Mr0t38-JqnXskwKhaNyWsH8B4pbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
